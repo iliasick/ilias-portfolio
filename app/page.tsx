@@ -78,14 +78,7 @@ export default function Home() {
               <dt>СТАТУС</dt>
               <dd>
                 Рабочий прототип / portfolio case<br />
-                <a
-                  className="header-link"
-                  href="https://github.com/iliasick/leaddesk"
-                  target="_blank"
-                  rel="noreferrer"
-                >
-                  GitHub ↗
-                </a>
+                Исходный код — по запросу
               </dd>
             </div>
         </dl>
