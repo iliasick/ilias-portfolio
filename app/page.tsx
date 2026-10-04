@@ -57,7 +57,7 @@ export default function Home() {
     <section className="hero" id="top">
       <p className="eyebrow">AI · АВТОМАТИЗАЦИЯ · БИЗНЕС-СИСТЕМЫ</p>
       <h1>Создаю внутренние системы и автоматизации для бизнеса</h1>
-      <p className="hero-copy">Помогаю убирать ручную работу там, где заявки, данные и действия сотрудников всё ещё связаны вручную.</p>
+      <p className="hero-copy">Автоматизирую рутину, связываю сервисы и собираю внутренние инструменты под конкретные задачи бизнеса.</p>
       <div className="actions">
         <a className="button primary" href="#leaddesk">Смотреть LeadDesk</a>
         <a className="button secondary" href="#contact">Связаться</a>
@@ -77,7 +77,7 @@ export default function Home() {
             <div>
               <dt>СТАТУС</dt>
               <dd>
-                Рабочий прототип / portfolio case<br />
+                Рабочий прототип<br />
                 Исходный код — по запросу
               </dd>
             </div>
